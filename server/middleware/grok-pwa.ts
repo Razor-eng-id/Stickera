@@ -109,4 +109,3 @@ export default async function grokPwaMiddleware(
   }
   return result;
 }
-
